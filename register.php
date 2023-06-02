@@ -33,14 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <title>Register</title>
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <style type="text/css">
-        body {
-            background-color: #f7f7f7;
-        }
-        .register-form {
-            margin-top: 50px;
-        }
-    </style>
+
 </head>
 <body>
 <div class="container">
